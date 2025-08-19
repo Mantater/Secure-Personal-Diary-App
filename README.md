@@ -1,2 +1,2 @@
 # Secure-Personal-Diary-App
-Project for making a simple diary
+Project for making a simple, secure diary
